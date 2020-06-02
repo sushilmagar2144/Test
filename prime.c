@@ -14,6 +14,7 @@ int main()
         flag=1;
         break;
       }
+    i++;
   }
   if(flag==1)
   {
